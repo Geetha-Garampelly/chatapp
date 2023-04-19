@@ -1,0 +1,19 @@
+
+
+.container {
+    background-color: cornflowerblue;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.container .wrapper{
+
+    
+}
+
+.form {
+    flex-direction: column;
+}
